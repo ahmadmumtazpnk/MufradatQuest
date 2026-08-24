@@ -1,0 +1,6 @@
+{
+  "name": "MufradatQuest",
+  "description": "Aplikasi edukasi kosakata Bahasa Arab ramah anak dengan kartu flip interaktif, kuis bertenaga Gemini AI, harakat lengkap, audio pelafalan, dan gamifikasi tema Kelas, Alam, Makanan, dan Keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
